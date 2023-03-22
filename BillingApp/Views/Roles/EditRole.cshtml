@@ -1,0 +1,20 @@
+﻿@using Model
+@model Model.ViewModel.RoleInfoViewModel
+@{
+    ViewBag.Title = "Edit Role";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit Role</h2>
+
+<div class="row">
+    @Html.BeginForm("EditRole", "Roles", FormMethod.Post)
+    <div class="form-group col-md-4">
+        Role Name
+        @Html.TextBoxFor(o => o.Name, new { @class = "form-control" })
+        @Html.HiddenFor(o=>o.RolesId)
+    </div>
+    <div class="col-md-4">
+        <button type="submit" class="btn btn-success">Submit</button>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+D:\C# Project\BillingSystem\Model\bin\Debug\Model.dll.config
+D:\C# Project\BillingSystem\Model\bin\Debug\Model.dll
+D:\C# Project\BillingSystem\Model\bin\Debug\Model.pdb
+D:\C# Project\BillingSystem\Model\bin\Debug\EntityFramework.dll
+D:\C# Project\BillingSystem\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# Project\BillingSystem\Model\bin\Debug\EntityFramework.xml
+D:\C# Project\BillingSystem\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# Project\BillingSystem\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\C# Project\BillingSystem\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\C# Project\BillingSystem\Model\obj\Debug\Model.csproj.CopyComplete
+D:\C# Project\BillingSystem\Model\obj\Debug\Model.dll
+D:\C# Project\BillingSystem\Model\obj\Debug\Model.pdb

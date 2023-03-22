@@ -1,0 +1,35 @@
+﻿@using Model
+@model Model.ViewModel.RoleInfoViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<a href="~/Roles/AddRole" class="btn btn-primary">Add Role</a>
+
+<table class="table table-bordered table-striped table-responsive">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.RoleList)
+        { 
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.ShowStatus
+            </td>
+            <td>
+                <a class="btn btn-primary" href="~/Roles/EditRole?roleId=@item.RolesId">Edit</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

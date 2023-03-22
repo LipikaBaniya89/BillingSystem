@@ -1,0 +1,15 @@
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\Model.dll
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\Model.pdb
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\Model.dll.config
+D:\C# Project\BillingSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\C# Project\BillingSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\C# Project\BillingSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+D:\C# Project\BillingSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\C# Project\BillingSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\C# Project\BillingSystem\BusinessLogicLayer\bin\Debug\EntityFramework.xml

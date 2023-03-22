@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BillingApp",
+    "\\BillingApp\\Controllers",
+    "\\BillingApp\\Views",
+    "\\BillingApp\\Views\\User"
+  ],
+  "SelectedNode": "\\BillingApp\\Views\\User\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
